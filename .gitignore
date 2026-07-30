@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data & models (large, tracked via DVC later)
+data/
+models/
+*.pt
+*.pth
+*.tflite
+*.onnx
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Flutter (later)
+app/**/build/
+app/**/.dart_tool/
