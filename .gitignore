@@ -21,3 +21,4 @@ models/
 # Flutter (later)
 app/**/build/
 app/**/.dart_tool/
+wandb
