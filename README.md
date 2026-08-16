@@ -136,7 +136,7 @@ python3 src/quantize.py
 
 The Android app is available as a pre-built APK — no build steps required:
 
-**[⬇ Download v1.0.0 APK](https://github.com/Pankaj-Singh-Rawat/plant-disease-detector/releases/tag/v1.0.0)**
+**[⬇ Download v1.0.0 APK](https://github.com/Pankaj-Singh-Rawat/plant-disease-detector/releases/tag/v1)**
 
 ---
 
