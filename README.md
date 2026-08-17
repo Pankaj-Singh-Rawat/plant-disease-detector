@@ -2,7 +2,7 @@
 
 An on-device plant leaf disease classifier: a PyTorch model trained on the PlantVillage dataset, quantized and exported to TorchScript Mobile, and integrated into a native Android app via Flutter — with **no backend calls at inference time**. Every prediction runs entirely on-device.
 
-[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/Pankaj-Singh-Rawat/plant-disease-detector/releases/tag/v1.0.0)
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/Pankaj-Singh-Rawat/plant-disease-detector/releases/tag/v1)
 
 ---
 
@@ -136,7 +136,7 @@ python3 src/quantize.py
 
 The Android app is available as a pre-built APK — no build steps required:
 
-**[⬇ Download v1.0.0 APK](https://github.com/Pankaj-Singh-Rawat/plant-disease-detector/releases/tag/v1)**
+**[⬇ Download v1 APK](https://github.com/Pankaj-Singh-Rawat/plant-disease-detector/releases/tag/v1)**
 
 ---
 
